@@ -15,7 +15,7 @@ class Nav extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      link: "/collapse"
+      link: "/Aurora/collapse/"
 
     }
     this.Toggle = this.Toggle.bind(this)
@@ -25,7 +25,7 @@ class Nav extends React.Component {
   Toggle(e){
     if(this.state.link === "/Aurora/"){
       this.setState((state) => {
-        return {link: "/Aurora/collapse" };
+        return {link: "/Aurora/collapse/" };
       });
     }
     else{
