@@ -23,14 +23,14 @@ class Nav extends React.Component {
   }
   
   Toggle(e){
-    if(this.state.link === "/"){
+    if(this.state.link === "/Aurora/"){
       this.setState((state) => {
-        return {link: "/collapse" };
+        return {link: "/Aurora/collapse" };
       });
     }
     else{
       this.setState((state) => {
-        return {link: "/" };
+        return {link: "/Aurora/" };
       });
     }
   }

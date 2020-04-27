@@ -16,10 +16,10 @@ function App() {
       <Router>
         <Nav />
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/Aurora/">
               <Dashboard />
             </Route>
-            <Route path="/collapse">
+            <Route path="/Aurora/collapse">
               <Collapse />
             </Route>
           </Switch>
