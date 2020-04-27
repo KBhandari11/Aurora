@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Aurora/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Aurora/static/js/main.cc458fa3.chunk.js",
-    "main.js.map": "/Aurora/static/js/main.cc458fa3.chunk.js.map",
+    "main.js": "/Aurora/static/js/main.845d6263.chunk.js",
+    "main.js.map": "/Aurora/static/js/main.845d6263.chunk.js.map",
     "runtime-main.js": "/Aurora/static/js/runtime-main.c29ad3a0.js",
     "runtime-main.js.map": "/Aurora/static/js/runtime-main.c29ad3a0.js.map",
     "static/js/2.e7c1c348.chunk.js": "/Aurora/static/js/2.e7c1c348.chunk.js",
     "static/js/2.e7c1c348.chunk.js.map": "/Aurora/static/js/2.e7c1c348.chunk.js.map",
     "index.html": "/Aurora/index.html",
-    "precache-manifest.578790c6ce598566bb621d57edd7d1c0.js": "/Aurora/precache-manifest.578790c6ce598566bb621d57edd7d1c0.js",
+    "precache-manifest.189f220ab3bc0c4e9d328ce14b7d8ef4.js": "/Aurora/precache-manifest.189f220ab3bc0c4e9d328ce14b7d8ef4.js",
     "service-worker.js": "/Aurora/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/Aurora/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.e7c1c348.chunk.js.LICENSE.txt": "/Aurora/static/js/2.e7c1c348.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.c29ad3a0.js",
     "static/js/2.e7c1c348.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.cc458fa3.chunk.js"
+    "static/js/main.845d6263.chunk.js"
   ]
 }
