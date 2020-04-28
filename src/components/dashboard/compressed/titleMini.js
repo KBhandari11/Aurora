@@ -3,9 +3,11 @@ import styled from "styled-components";
 import title from "../../../assets/heatcards/title.png"
 
 const Container = styled.div`
-height: 65px;
-margin: auto;
-
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  margin: 0px 10px;
+  margin-bottom: 5%;
 `;
 
 const Text = styled.div`
@@ -14,12 +16,17 @@ const Text = styled.div`
     font-weight: 600;
     transform: rotate(-90deg);
     position: relative;
-    bottom: 50px;
+    height: 0px;
+    bottom: 40px;
+    right: 25%;
 
 `;
 const Placeholder = styled.img`
-    width: 40px;
-    height: 62px;
+    width: 100%;
+    height: 100%;
+    border-radius: 4px;
+    margin: auto
+
     
 `;
 class MiniTitle extends React.Component {

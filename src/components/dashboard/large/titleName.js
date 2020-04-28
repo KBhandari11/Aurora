@@ -9,14 +9,14 @@ const    Container = styled.div`
     background-color: #FFFFFF;
     padding: 8px 0px;
     border-radius: 4px;
-    
 `;
 
 const Text = styled.div`
-    color: #000000;
+    color: rgba(0,0,0,0.65);
     font-size: 80%;
-    line-height: 80%;
+    line-height: 75%;
     padding: 3px;
+
 `;
 class Title extends React.Component {
     render(props) {

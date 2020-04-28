@@ -38,7 +38,11 @@ class Dashboard extends React.Component {
     this.breakPoints = [
         { width: 1, itemsToShow: 1 },
         { width: 425, itemsToShow: 2, itemsToScroll: 2 },
-        { width: 1000, itemsToShow: 7, itemsToScroll: 7 }
+        { width: 1000, itemsToShow: 4, itemsToScroll: 4 },
+        { width: 1300, itemsToShow: 5, itemsToScroll: 5 },
+        { width: 1600, itemsToShow: 6, itemsToScroll: 6 },
+
+
       ]
   }
   

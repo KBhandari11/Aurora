@@ -16,7 +16,7 @@ const Container = styled.div`
 const   Detail = styled.img`
     width: auto;
     border-radius: 4px;
-    height: 95vh;
+    height: 90vh;
     margin: 8px auto;
     `;
 

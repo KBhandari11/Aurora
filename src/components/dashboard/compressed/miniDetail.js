@@ -6,17 +6,18 @@ const Container = styled.div`
     display: flex;
     flex-direction: column;
     width: 100%
-    margin: auto;
     border: none;
     border-radius: 4px;
     background: transparent;
+
     `;
 
 
 const   Detail = styled.img`
     width: auto;
     border-radius: 10px;
-    height: 95vh;
+    height: 90vh;
+
     `;
 
 
